@@ -1,6 +1,7 @@
 # Starter Web Project
 
 This is a simple website project for showing how to use GIT and GITHUB.
+Adding a line for rebasing example.
 
 ## Introduction
 This is example to show difference parts of GIT repo and various commands using a web project
